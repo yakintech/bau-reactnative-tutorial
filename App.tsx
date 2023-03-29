@@ -1,13 +1,13 @@
 import { SafeAreaView } from 'react-native'
 import React from 'react'
-import StateArrayOperation from './src/lessons/stateSample/StateArrayOperation'
+import StateArraySortSample from './src/lessons/stateSample/StateArraySortSample'
 const App = () => {
 
 
 
   return (
     <SafeAreaView>
-       <StateArrayOperation/>
+       <StateArraySortSample/>
     </SafeAreaView>
   )
 }
