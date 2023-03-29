@@ -1,0 +1,7 @@
+* package.json
+* hooks ? 
+* Map function
+* && null, undefined??
+* Flatlist
+*** js array methods... splice, FILTER, FIND
+*** spread
